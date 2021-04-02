@@ -1,0 +1,8 @@
+{
+  "name": "connectksc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c7bd667b"
+}
